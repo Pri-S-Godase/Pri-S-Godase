@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pritesh Godase
+<h1 align="center">👋 Hi, I'm Pritesh Godase</h1>
 
 <h3 align="center">
   Site Reliability Engineer • Cybersecurity Engineer in Progress • Python & Linux
