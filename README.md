@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pritesh Godase</h1>
 
 <h3 align="center">
-  Site Reliability Engineer • Cybersecurity Engineer in Progress • Python & Linux
+  Cybersecurity Engineer | Cybersecurity Operations Analyst | Penetration Tester | Python & Linux
 </h3>
 
 <p align="center">
